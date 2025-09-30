@@ -24,7 +24,7 @@ course:
   where-city: "Berlin"
   where-country: "Germany"
   where-address: "Lentzeallee 94, 14195 Berlin"
-  where-room: "Small Conference Room"
+  where-room: "Room 111"
   where-long: "{{< var course.where-institution >}}, {{< var course.where-address >}} ({{< var course.where-room >}})"
   where-short: "{{< var course.where-institution >}} ({{< var course.where-room >}})"
   target-group: "Researchers at the {{< var course.where-institution >}}"
