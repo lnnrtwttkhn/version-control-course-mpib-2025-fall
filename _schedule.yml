@@ -69,7 +69,7 @@ session-lunch:
     - "Enjoy your lunch!"
 session-git-remotes:
   date: "2025-10-09"
-  time: "13:00 - 14:00"
+  time: "14:00 - 15:00"
   title: "Integration with GitHub / GitLab"
   contents:
     - "Introduction to remote repositories"
