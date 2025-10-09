@@ -1,187 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/schedule.html</loc>
-    <lastmod>2025-09-28T09:16:12.858Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/resources.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/resources.html</loc>
-    <lastmod>2025-09-28T09:16:12.858Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/schedule.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/mechanics.html</loc>
-    <lastmod>2025-09-28T09:16:12.855Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-collaboration.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-git-collaboration.html</loc>
-    <lastmod>2025-09-30T11:41:57.685Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-branches.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-git-branches.html</loc>
-    <lastmod>2025-09-30T11:41:57.680Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-outlook.html</loc>
+    <lastmod>2025-10-09T18:15:06.269Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-datalad.html</loc>
-    <lastmod>2025-09-30T11:41:57.679Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-introduction.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/recipes/recipes-basics.html</loc>
-    <lastmod>2025-09-28T09:16:12.862Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-github-advanced.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/recipes/recipes-branches.html</loc>
-    <lastmod>2025-09-28T09:16:12.862Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-github-intro.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/exercises/exercise-cli.html</loc>
-    <lastmod>2025-09-28T09:16:12.860Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-cli.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/exercises/exercise-tags-releases.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-introduction.html</loc>
+    <lastmod>2025-10-09T18:15:06.269Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/exercises/exercise-git-basics.html</loc>
-    <lastmod>2025-09-28T09:16:12.860Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-lunch.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-git-basics.html</loc>
-    <lastmod>2025-09-30T11:41:57.684Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-essentials.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-github-intro.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-setup.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-basics.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-basics.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-branches.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-command-line.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/index.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/tasks/tasks-outlook.html</loc>
+    <lastmod>2025-10-09T18:15:06.269Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-git-setup.html</loc>
-    <lastmod>2025-09-30T11:41:57.681Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-command-line.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-outlook.html</loc>
-    <lastmod>2025-09-30T11:41:57.683Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/index.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-outlook.html</loc>
-    <lastmod>2025-09-30T11:41:57.688Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/recipes/recipes-branches.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/tasks/tasks-template.html</loc>
-    <lastmod>2025-09-28T09:16:12.869Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-datalad.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-introduction.html</loc>
-    <lastmod>2025-09-30T11:41:57.687Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/zi-git.html</loc>
+    <lastmod>2025-10-09T18:15:06.269Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/about.html</loc>
-    <lastmod>2025-09-28T09:16:12.853Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/acknowledgements.html</loc>
+    <lastmod>2025-10-09T18:15:06.265Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/acknowledgements.html</loc>
-    <lastmod>2025-09-28T09:16:12.853Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/index.html</loc>
+    <lastmod>2025-10-09T18:15:06.266Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/zi-git.html</loc>
-    <lastmod>2025-09-28T09:16:12.869Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/mechanics.html</loc>
+    <lastmod>2025-10-09T18:15:06.266Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/index.html</loc>
-    <lastmod>2025-09-30T11:28:12.877Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/code-of-conduct.html</loc>
+    <lastmod>2025-10-09T18:15:06.266Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-git-remotes.html</loc>
-    <lastmod>2025-09-30T11:41:57.685Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/about.html</loc>
+    <lastmod>2025-10-09T18:15:06.265Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/tasks/tasks-outlook.html</loc>
-    <lastmod>2025-09-28T09:16:12.869Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-setup.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-command-line.html</loc>
-    <lastmod>2025-09-30T11:41:57.679Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/recipes/recipes-basics.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-git-setup.html</loc>
-    <lastmod>2025-09-30T11:41:57.686Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/recipes/recipes-cli.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-command-line.html</loc>
-    <lastmod>2025-09-30T11:41:57.683Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-outlook.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-introduction.html</loc>
-    <lastmod>2025-09-30T11:41:57.682Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/tasks/tasks-template.html</loc>
+    <lastmod>2025-10-09T18:15:06.269Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-essentials.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-basics.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-github-advanced.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-branches.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-setup.html</loc>
-    <lastmod>2025-09-28T09:16:12.862Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-cli.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/project/project-cli.html</loc>
-    <lastmod>2025-09-28T09:16:12.861Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-github-intro.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-lunch.html</loc>
-    <lastmod>2025-09-30T11:41:57.682Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-github-advanced.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/exercises/exercise-github-intro.html</loc>
-    <lastmod>2025-09-28T09:16:12.860Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-remotes.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/exercises/exercise-github-advanced.html</loc>
-    <lastmod>2025-09-28T09:16:12.860Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-branches.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/exercises/exercise-branches.html</loc>
-    <lastmod>2025-09-28T09:16:12.860Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-tags-releases.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/recipes/recipes-cli.html</loc>
-    <lastmod>2025-09-28T09:16:12.862Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-git-basics.html</loc>
+    <lastmod>2025-10-09T18:15:06.267Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/slides-session-git-branches.html</loc>
-    <lastmod>2025-09-30T11:41:57.685Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-collaboration.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-git-basics.html</loc>
-    <lastmod>2025-09-30T11:41:57.679Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-basics.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-git-collaboration.html</loc>
-    <lastmod>2025-09-30T11:41:57.680Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-setup.html</loc>
+    <lastmod>2025-10-09T18:15:06.269Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/sessions/session-git-remotes.html</loc>
-    <lastmod>2025-09-30T11:41:57.681Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-branches.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/implementation.html</loc>
-    <lastmod>2025-09-28T09:16:12.855Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-remotes.html</loc>
+    <lastmod>2025-10-09T18:15:06.268Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/version-control-course-mpib-2025-fall/code-of-conduct.html</loc>
-    <lastmod>2025-09-28T09:16:12.854Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/implementation.html</loc>
+    <lastmod>2025-10-09T18:15:06.266Z</lastmod>
   </url>
 </urlset>
